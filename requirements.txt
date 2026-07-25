@@ -1,0 +1,7 @@
+streamlit
+requests
+SQLAlchemy
+bcrypt
+pandas
+numpy
+scikit-learn
